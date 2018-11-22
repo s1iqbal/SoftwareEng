@@ -2,7 +2,7 @@
   "name": "d2lreimagined",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://s1iqbal.github.io/d2lreimagined
+  "homepage": "https://s1iqbal.github.io/d2lreimagined",
   "dependencies": {
     "axios": "^0.17.1",
     "bcryptjs": "^2.4.3",
